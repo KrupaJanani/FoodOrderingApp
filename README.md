@@ -1,2 +1,2 @@
 # FoodOrderingApp
-NM Project - Food ordering app with MERN stack, RecatJS.
+NM Project - Food ordering app with MERN stack, ReactJS.
